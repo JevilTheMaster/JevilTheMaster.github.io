@@ -24,3 +24,7 @@
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DRmM_Wq4WoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Call Of Duty Modern Warfare 2**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uIWZOtuYySk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
