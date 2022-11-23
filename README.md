@@ -1,6 +1,6 @@
 # Welcome to JevilTheMaster.github.io
 ---
-**My favorite things**
+**The things I like**
 - Friends
 - Video Games
 - Game Consoles
