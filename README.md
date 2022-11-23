@@ -7,10 +7,10 @@
 - food
 - excercise
 
-| call of Duty | YOOOO |
+| Cll of Duty | One of my favorite games |
 | ----------- | ----------- |
-| good game | best game |
-| I lose in it alot | Me is bad at game |
+| game I reccomend | Ok game |
+| I am not a pro | I lose in this game a lot |
 
 
 ![Call of Duty](https://i0.wp.com/news.xbox.com/en-us/wp-content/uploads/sites/2/2022/10/MW2_Launch_CEA_X1_Wire_Hero_16x9-fd687e9075dac5ccc465.jpg?fit=1920%2C1080&ssl=1)
