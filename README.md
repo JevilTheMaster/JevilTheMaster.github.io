@@ -24,17 +24,17 @@
 [Nice Youtube Vid](https://youtu.be/dQw4w9WgXcQ)
 
 
-**call of duty warzone gameplay**
+**A brief gameplay of Call Of Duty Warzone**
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DRmM_Wq4WoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Call Of Duty Modern Warfare 2**
+**A brief Gameplay of Cod Modern Warfare 2**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIWZOtuYySk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**The Lore of Call of Duty*
+**A Brief History of Cod Lore*
 *There are few video games that have nestled their way into pop culture quite like Call Of Duty. Over the franchise’s 17 year history, Activision’s seminal shooter has taken players from the muddy trenches of 1940s Germany to the drone-patrolled streets of Ethiopia in 2065. Unsurprisingly then, Call of Duty has slowly gone from closely following real-world events to creating its own completely bonkers alternate histories. Yes, plural.*
 
 *Thanks to being made by three different developers, the events of Call Of Duty’s lore take place across not two, or even three different self-contained universes… but five. After the original World War II set Call Of Duty games, there is a Black Ops timeline; then there’s the Modern Warfare Trilogy timeline; and, as of last year, there is also the fact that the Modern Warfare timeline has been retconned thanks to the entirely new story told in the Modern Warfare 2019 reboot. This means that Modern Warfare 2019 also exists within its own universe. Fun!*
