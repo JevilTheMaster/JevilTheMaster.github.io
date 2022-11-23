@@ -1,13 +1,19 @@
 # Welcome to JevilTheMaster.github.io
 ---
-**My favorite things**
+**My favorite characters(In games)/things**
+- Cyno
+- Ayato
+- Kazuha
+- Hu Tao
 - Friends
 - Games
 - Sports
 - food
 - excercise
 
-| Call of Duty | One of my favorite games |
+** One of my favorite games** 
+
+| Call of Duty | One of the best games I play |
 | ----------- | ----------- |
 | game I reccomend | Ok game |
 | I am not a pro | I lose in this game a lot |
