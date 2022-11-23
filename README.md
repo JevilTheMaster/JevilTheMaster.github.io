@@ -26,13 +26,19 @@
 
 **A brief gameplay of Call Of Duty Warzone**
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DRmM_Wq4WoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **A brief Gameplay of Cod Modern Warfare 2**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIWZOtuYySk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Gameplay of the new Cod Game called Warzone 2.0**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CDL1GEBRYCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Another gameplay of warzone but its the upcoming relase Warzone Mobile**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6GOlW1v7rX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **A Brief History of Cod Lore*
 *There are few video games that have nestled their way into pop culture quite like Call Of Duty. Over the franchise’s 17 year history, Activision’s seminal shooter has taken players from the muddy trenches of 1940s Germany to the drone-patrolled streets of Ethiopia in 2065. Unsurprisingly then, Call of Duty has slowly gone from closely following real-world events to creating its own completely bonkers alternate histories. Yes, plural.*
