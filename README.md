@@ -7,7 +7,7 @@
 - food
 - excercise
 
-| Cll of Duty | One of my favorite games |
+| Call of Duty | One of my favorite games |
 | ----------- | ----------- |
 | game I reccomend | Ok game |
 | I am not a pro | I lose in this game a lot |
